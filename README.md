@@ -7,7 +7,7 @@ As tecnologias que domino no momento são: **HTML e CSS**.
 Mas em breve irei adicionar mais tecnologias.*
 
 ***
-<H3>Software</H3>
+## Software
 * git
 * VsCode
 * Phostoshop
