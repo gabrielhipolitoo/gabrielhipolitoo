@@ -8,8 +8,21 @@ Mas em breve irei adicionar mais tecnologias.*
 
 ***
 ## Software
-* git
-* VsCode
-* Phostoshop
-* GitHub-Dekstop
+     git
+     VsCode
+     Phostoshop
+     GitHub-Dekstop
+
+## Tecnologias que prentendo dominar
+  
+     Javascript
+     React.js
+     Node.js
+     Python
+     C#
+     PHP
+     MongoDB
+     Mysql
+     
+ 
 
