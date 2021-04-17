@@ -7,5 +7,6 @@ As tecnologias que domino no momento são: **HTML e CSS**.
 Porém em breve irei adicionar mais tecnologias.
 
 <H3>Software</h3>: Vscode,github,git
+
 Os: Windows 10 💻
 
