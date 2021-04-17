@@ -6,6 +6,6 @@ Tem algum projeto em que posso colaborar? Se é sim , pode entrar em contato com
 As tecnologias que domino no momento são: **HTML e CSS**.
 Porém em breve irei adicionar mais tecnologias.
 
-<H3>Software</H3>: git,github-desktop,vscode,photoshop
-<H3>OS</H3>:Windows
+<H3>Software</H3>git,github-desktop,vscode,photoshop
+<H3>OS</H3>Windows
 
