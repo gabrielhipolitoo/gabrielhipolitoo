@@ -3,7 +3,7 @@
 *Iae , Dev. Meu nome é Gabriel Hipólito Carneiro
 Tenho 22 anos e sou da Bahia. No momento estou estudando Front-end, mas também tenho interesse em back-end.
 Tem algum projeto em que posso colaborar? Se é sim , pode entrar em contato comigo.
-As tecnologias que domino no momento são: **HTML e CSS**,
+As tecnologias que domino no momento são: **HTML/CSS e JAVASCRIPT**,
 Mas irei aprender mais tecnologias.*
 
 ***
