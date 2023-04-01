@@ -6,13 +6,12 @@ Eu ainda não tenho experiencia profissional com desenvolvimento mas caso tenha 
 projeto em que posso colaborar pode entrar em contato comigo.
 
 
-***
-### Tecnologias
- * Html/Css
- * Javascript
- * Tailwind
- * React.js
+*** 
+### Front end
 
+
+
+### Back end
 ***
 ## Software
   * git
