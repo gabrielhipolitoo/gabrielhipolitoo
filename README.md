@@ -5,6 +5,8 @@ Tenho 23 anos e sou da Bahia. No momento estou estudando Front-end, mas também 
 Eu ainda não tenho experiencia profissional com desenvolvimento mas caso tenha algum
 projeto em que posso colaborar pode entrar em contato comigo.
 
+### Entre em contato
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-hipolito)
 
 *** 
 ### Front end
