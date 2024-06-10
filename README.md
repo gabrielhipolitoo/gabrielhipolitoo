@@ -12,6 +12,7 @@ Estou abertos para projetos voluntarios e open-source, então qualquer tipo de o
 * Html/Css
 * JavaScript
 * React.js
+* Node.js
 * Git
 * Figma
 
