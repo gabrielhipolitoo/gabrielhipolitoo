@@ -1,6 +1,6 @@
 ### Olá, me chamo Gabriel Hipólito 😄
 
-Opa, tudo bem? me chamo Gabriel, tenho 24 anos, e atualmente estou cursando o 2° semestre do curso de ciência da computação. Sou apaixonado por programação desde quanto eu tinha 10/12 anos, sempre quis saber como as tecnologias eram criadas. E hoje sou programador web jr em busca da primeira oportunidade e pronto para novos desafios.
+Opa, tudo bem? me chamo Gabriel, tenho 24 anos, e atualmente estou cursando o 4° semestre do curso de ciência da computação. Sou apaixonado por programação desde quanto eu tinha 10/12 anos, sempre quis saber como as tecnologias eram criadas. E hoje sou programador web jr em busca da primeira oportunidade e pronto para novos desafios.
 Estou abertos para projetos voluntarios e open-source, então qualquer tipo de oportunidade pode entrar em contato !
 
 
