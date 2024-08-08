@@ -1,7 +1,8 @@
 ### Olá, me chamo Gabriel Hipólito 😄
 
-Opa, tudo bem? me chamo Gabriel, tenho 24 anos, e atualmente estou cursando o 4° semestre do curso de ciência da computação. Sou apaixonado por programação desde quanto eu tinha 10/12 anos, sempre quis saber como as tecnologias eram criadas. E hoje sou programador web jr em busca da primeira oportunidade e pronto para novos desafios.
-Estou abertos para projetos voluntarios e open-source, então qualquer tipo de oportunidade pode entrar em contato !
+Opa, tudo bem? Me chamo Gabriel, tenho 24 anos, e atualmente estou cursando o 4° semestre do curso de ciência da computação. Sou apaixonado por programação desde quanto eu tinha 10/12 anos, sempre quis saber como as tecnologias eram criadas. E hoje sou programador Web jr em busca da primeira oportunidade e pronto para novos desafios.
+Sou uma pessoa bastante comunicativa, que gosta de resolver desafios em equipe, e que visa um bom relacionamento entre os colegas de trabalho
+Estou aberto para projetos voluntários e open-source, então qualquer tipo de oportunidade pode entrar em contato!
 
 
 ### Entre em contato
@@ -11,6 +12,7 @@ Estou abertos para projetos voluntarios e open-source, então qualquer tipo de o
 ### Habilidades técnicas
 * Html/Css
 * JavaScript
+* Typescript
 * React.js
 * Node.js
 * Git
