@@ -7,7 +7,7 @@ Estou aberto para projetos voluntários e open-source, então qualquer tipo de o
 
 ### Entre em contato
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-hipolito)
-[![Gmail Badge](https://img.shields.io/badge/-c.gabrielipolitoh@gmail.com-1F98FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.gabrielipolitoh@gmail.com)](mailto:c.gabrielipolitoh@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dev.gabrielipolito@gmail.com-1F98FF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:c.gabrielipolitoh@gmail.com)](mailto:c.gabrielipolitoh@gmail.com)
 *** 
 ### Habilidades técnicas
 * Html/Css
