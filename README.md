@@ -1,9 +1,6 @@
 ### Olá, me chamo Gabriel Hipólito 😄
 
-Opa, tudo bem? Me chamo Gabriel, tenho 24 anos, e atualmente estou cursando o 4° semestre do curso de ciência da computação. Sou apaixonado por programação desde quanto eu tinha 10/12 anos, sempre quis saber como as tecnologias eram criadas. E hoje sou programador Web jr em busca da primeira oportunidade e pronto para novos desafios.
-Sou uma pessoa bastante comunicativa, que gosta de resolver desafios em equipe, e que visa um bom relacionamento entre os colegas de trabalho
-Estou aberto para projetos voluntários e open-source, então qualquer tipo de oportunidade pode entrar em contato!
-
+Sou Desenvolvedor Júnior com experiência prática em JavaScript,TypeScript e React.js, atualmente cursando o 4º semestre de Ciência da Computação nas instituições Descomplica e Uniamérica. Adoto uma abordagem proativa e colaborativa, sempre focado em identificar soluções eficientes e otimizar processos para gerar resultados significativos. Comprometido com a melhoria contínua, busco constantemente aprimorar minhas habilidades técnicas e contribuir para o sucesso coletivo da equipe e da organização.
 
 ### Entre em contato
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-hipolito)
