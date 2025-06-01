@@ -1,6 +1,8 @@
 ### Olá, me chamo Gabriel Hipólito 😄
 
-Sou Desenvolvedor Júnior com experiência prática em JavaScript,TypeScript e React.js, atualmente cursando o 4º semestre de Ciência da Computação nas instituições Descomplica e Uniamérica. Adoto uma abordagem proativa e colaborativa, sempre focado em identificar soluções eficientes e otimizar processos para gerar resultados significativos. Comprometido com a melhoria contínua, busco constantemente aprimorar minhas habilidades técnicas e contribuir para o sucesso coletivo da equipe e da organização.
+Hello 👋 welcome to  my profile. I'm a junior developer with hands-on experience in React.js, Next.js and Typescript,but i also work with React Native and Node.js for back-end development. 
+I'm currently studying Computer Science at Descomplica.
+My goal as a programmer is to identify problems and provide efficient solutions, always focusing on delivery and prioritizing tasks 
 
 ### Entre em contato
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-hipolito)
